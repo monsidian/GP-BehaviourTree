@@ -13,7 +13,7 @@ A [script](https://github.com/idrl-lab/PINNpapers/blob/main/ref_convert.py) for 
 ## Open Software
 
 
-1. **This is an example for Yutong Long**, *Wei Peng, Jun Zhang, Weien Zhou, Xiaoyu Zhao, Wen Yao, Xiaoqian Chen*, arXiv:2107.04320 [cs, math], 2021. [[paper](https://arxiv.org/pdf/2107.04320.pdf)][[code](https://github.com/idrl-lab/idrlnet)]
+1. **Behavior Designer: a visual editor for designers, programmers and artists to design bahabior trees conveniently.**, *Wei Peng, Jun Zhang, Weien Zhou, Xiaoyu Zhao, Wen Yao, Xiaoqian Chen*, arXiv:2107.04320 [cs, math], 2021. [[paper](https://arxiv.org/pdf/2107.04320.pdf)][[code](https://github.com/idrl-lab/idrlnet)]
 
 ## Papers on XXXX
 1. **This is an example for Shulei Liu**, *A. Raissi, B. Perdikaris, C. E. Karniadakis*, Journal of Computational xxx, 2019. [[paper](https://www.sciencedirect.com/science/article/pii/S0021999118307125)]
